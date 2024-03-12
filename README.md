@@ -6,7 +6,7 @@ https://gethired-app.vercel.app/
 
 Backend deployed on Render (Repo): 
 
-https://github.com/amanfangeria980/job-portal-server
+https://github.com/JiyaSehgal2004/job-portal-server
 
 
 
